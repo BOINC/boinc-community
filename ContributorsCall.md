@@ -10,8 +10,8 @@ The purpose of the call is to connect the different contributors and coordinate 
 
 Useful locations documents that contributors should be aware of:
 
-[BOINC Policy repository](https://github.com/BOINC/boinc-policy)
-[BOINC Governance document](https://github.com/BOINC/boinc-policy/blob/master/Governance_Documents/Governance.md)
-[BOINC Development Workflow](https://github.com/BOINC/boinc-policy/blob/master/Development_Documents/Development_Workflow.md)
-[BOINC Client Release Process](https://github.com/BOINC/boinc-policy/blob/client_release/Development_Documents/Client_Release_Process.md)
-[BOINC Contributors Call archive](https://drive.google.com/drive/folders/1tw7NOMJdGQQfqJrr6cJdcdTzPmocNkQh)
+- [BOINC Policy repository](https://github.com/BOINC/boinc-policy)
+- [BOINC Governance document](https://github.com/BOINC/boinc-policy/blob/master/Governance_Documents/Governance.md)
+- [BOINC Development Workflow](https://github.com/BOINC/boinc-policy/blob/master/Development_Documents/Development_Workflow.md)
+- [BOINC Client Release Process](https://github.com/BOINC/boinc-policy/blob/client_release/Development_Documents/Client_Release_Process.md)
+- [BOINC Contributors Call archive](https://drive.google.com/drive/folders/1tw7NOMJdGQQfqJrr6cJdcdTzPmocNkQh)
