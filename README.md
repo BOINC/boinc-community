@@ -1,2 +1,2 @@
-# boinc-workshops
-A place to store workshop related materials
+# boinc-community
+A place to store community related materials
